@@ -42,7 +42,7 @@ I value **learning in public**, so I keep them here instead of hiding them away 
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂️ Repository Structure (machine-learning-fundations)
 
 The repository grows organically alongside my university progress. I avoid creating empty placeholder directories until I am actively working on them.
 

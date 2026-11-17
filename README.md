@@ -1,4 +1,6 @@
-# University-Notebook 📚
+[![Español](https://img.shields.io/badge/Idioma-Español-red.svg)](./README.es.md)
+
+# University-Notebook 📚  
 
 Welcome to my **University-Notebook**.
 
@@ -42,7 +44,7 @@ I value **learning in public**, so I keep them here instead of hiding them away 
 
 ---
 
-## 🗂️ Repository Structure (machine-learning-fundations)
+## 🗂️ Repository Structure (just showing machine-learning-fundations)
 
 The repository grows organically alongside my university progress. I avoid creating empty placeholder directories until I am actively working on them.
 
@@ -108,15 +110,15 @@ Calculus ────────────┘
 
 ### 📈 Linear Regression
 
-#### [Module 01: Simple Linear Regression](./machine-learning-fundations/linear-regression/module-01-simple-linear-regression/)
+#### [Module 01: Simple Linear Regression](./machine-learning-fundations/linear-regression/module-01-simple-linear-regression/simple_linear_regression.ipynb)
 * **Focus:** Understanding line-fitting mechanics, independent/dependent variables, and mapping basic statistical foundations.
 * **Hands-on:** Scratch Python implementations paired with initial data tests (`students_data.csv`).
 
-#### [Module 02: Model Evaluation](./machine-learning-fundations/linear-regression/module-02-model-evaluation/)
+#### [Module 02: Model Evaluation](./machine-learning-fundations/linear-regression/module-02-model-evaluation/model_evaluation.ipynb)
 * **Focus:** How do we know a model is good? Residual analysis, Mean Squared Error (MSE), R-squared (\(R^2\)), and tracking error metrics.
 * **Hands-on:** Evaluating model bounds using validation loops over mock university student datasets.
 
-#### [Module 03: Multiple Linear Regression](./machine-learning-fundations/linear-regression/module-03-multiple-linear-regression/)
+#### [Module 03: Multiple Linear Regression](./machine-learning-fundations/linear-regression/module-03-multiple-linear-regression/multiple_linear_regression.ipynb)
 * **Focus:** Moving from 2D space to multi-dimensional feature spaces using **Linear Algebra** and matrix forms.
 * **Key Topics:** Design Matrix, transpose operations, matrix inverses, and parameter estimation.
 * **The Math:** Deriving and implementing the **Normal Equation** from scratch using raw NumPy:
